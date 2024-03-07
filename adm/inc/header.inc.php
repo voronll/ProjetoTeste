@@ -7,5 +7,5 @@
 </head>
 <body>
     <header>
-        <h1>Aqui será meu eita! cabeçalho</h1>
+        <h1>Aqui será meu eita cabeçalho</h1>
     </header>
